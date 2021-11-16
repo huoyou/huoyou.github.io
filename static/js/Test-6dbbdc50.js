@@ -1,0 +1,1 @@
+import{d as s,v as o,j as a,k as e,t as c,o as i}from"./vendor-69fcaf42.js";const r={class:"test-container page-container"},l=e("div",{class:"page-title"},"Unit Test Page",-1),f=s({setup(p){const t=o(0),n=()=>{t.value+=1};return(u,_)=>(i(),a("div",r,[l,e("p",null,"count is: "+c(t.value),1),e("button",{onClick:n},"increment")]))}});export{f as default};
