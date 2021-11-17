@@ -1,0 +1,1 @@
+import{a,p as t,o as s,j as e,k as n,v as o}from"./vendor-dbbc93a3.js";const c={class:"test-container page-container"},i=n("div",{class:"page-title"},"Unit Test Page",-1);var r=a({setup(a){const r=t(0),l=()=>{r.value+=1};return(a,t)=>(s(),e("div",c,[i,n("p",null,"count is: "+o(r.value),1),n("button",{onClick:l},"increment")]))}});export{r as default};
