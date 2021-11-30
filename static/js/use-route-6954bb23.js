@@ -1,0 +1,1 @@
+import{L as n}from"./vendor-98e30db6.js";var l={to:[String,Object],url:String,replace:Boolean};function u(r){var o=r.$router,{to:t,url:e,replace:a}=r;t&&o?o[a?"replace":"push"](t):e&&(a?location.replace(e):location.href=e)}function s(){var r=n().proxy;return()=>u(r)}export{u as a,l as r,s as u};
