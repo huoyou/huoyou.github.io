@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://www.xmeta.love/comments/index.html</loc>
+    <loc>https://www.xmeta.love/gallery/index.html</loc>
     
     <lastmod>2023-10-26</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://www.xmeta.love/gallery/index.html</loc>
+    <loc>https://www.xmeta.love/comments/index.html</loc>
     
     <lastmod>2023-10-26</lastmod>
     
@@ -74,15 +74,6 @@
   </url>
   
   <url>
-    <loc>https://www.xmeta.love/categories/index.html</loc>
-    
-    <lastmod>2023-10-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.xmeta.love/about/index.html</loc>
     
     <lastmod>2023-10-26</lastmod>
@@ -92,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://www.xmeta.love/archives/settings/%E4%BA%91%E6%9C%8D%E5%8A%A1%E7%9B%B8%E5%85%B3%E9%85%8D%E7%BD%AE.html</loc>
+    <loc>https://www.xmeta.love/categories/index.html</loc>
     
     <lastmod>2023-10-26</lastmod>
     
@@ -110,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://www.xmeta.love/archives/tools/finalShell.html</loc>
+    <loc>https://www.xmeta.love/archives/settings/%E4%BA%91%E6%9C%8D%E5%8A%A1%E7%9B%B8%E5%85%B3%E9%85%8D%E7%BD%AE.html</loc>
     
     <lastmod>2023-10-26</lastmod>
     
@@ -120,6 +111,15 @@
   
   <url>
     <loc>https://www.xmeta.love/archives/tools/image-bed.html</loc>
+    
+    <lastmod>2023-10-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xmeta.love/archives/tools/finalShell.html</loc>
     
     <lastmod>2023-10-26</lastmod>
     
@@ -173,7 +173,7 @@
   </url>
   
   <url>
-    <loc>https://www.xmeta.love/archives/other/egg.html</loc>
+    <loc>https://www.xmeta.love/archives/other/git.html</loc>
     
     <lastmod>2023-10-26</lastmod>
     
@@ -209,7 +209,7 @@
   </url>
   
   <url>
-    <loc>https://www.xmeta.love/archives/other/git.html</loc>
+    <loc>https://www.xmeta.love/archives/other/egg.html</loc>
     
     <lastmod>2023-10-26</lastmod>
     
@@ -254,7 +254,7 @@
   </url>
   
   <url>
-    <loc>https://www.xmeta.love/archives/code/event-loop.html</loc>
+    <loc>https://www.xmeta.love/archives/code/eslint.html</loc>
     
     <lastmod>2023-10-26</lastmod>
     
@@ -263,7 +263,7 @@
   </url>
   
   <url>
-    <loc>https://www.xmeta.love/archives/code/eslint.html</loc>
+    <loc>https://www.xmeta.love/archives/code/event-loop.html</loc>
     
     <lastmod>2023-10-26</lastmod>
     
@@ -311,13 +311,6 @@
   </url>
   
   <url>
-    <loc>https://www.xmeta.love/tags/Javascript/</loc>
-    <lastmod>2023-12-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.xmeta.love/tags/Eslin/</loc>
     <lastmod>2023-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -326,6 +319,27 @@
   
   <url>
     <loc>https://www.xmeta.love/tags/TypeScript/</loc>
+    <lastmod>2023-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xmeta.love/tags/Javascript/</loc>
+    <lastmod>2023-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xmeta.love/tags/Vue/</loc>
+    <lastmod>2023-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xmeta.love/tags/Icon/</loc>
     <lastmod>2023-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -360,14 +374,28 @@
   </url>
   
   <url>
-    <loc>https://www.xmeta.love/tags/Egg/</loc>
+    <loc>https://www.xmeta.love/tags/Git/</loc>
     <lastmod>2023-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.xmeta.love/tags/Git/</loc>
+    <loc>https://www.xmeta.love/tags/Markdown/</loc>
+    <lastmod>2023-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xmeta.love/tags/Webstorm/</loc>
+    <lastmod>2023-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xmeta.love/tags/Egg/</loc>
     <lastmod>2023-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -395,27 +423,6 @@
   </url>
   
   <url>
-    <loc>https://www.xmeta.love/tags/Markdown/</loc>
-    <lastmod>2023-12-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xmeta.love/tags/Webstorm/</loc>
-    <lastmod>2023-12-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xmeta.love/tags/Tools/</loc>
-    <lastmod>2023-12-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.xmeta.love/tags/Typora/</loc>
     <lastmod>2023-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -424,6 +431,13 @@
   
   <url>
     <loc>https://www.xmeta.love/tags/PicGo/</loc>
+    <lastmod>2023-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xmeta.love/tags/Tools/</loc>
     <lastmod>2023-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -452,20 +466,6 @@
   
   <url>
     <loc>https://www.xmeta.love/tags/Github/</loc>
-    <lastmod>2023-12-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xmeta.love/tags/Vue/</loc>
-    <lastmod>2023-12-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xmeta.love/tags/Icon/</loc>
     <lastmod>2023-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -502,14 +502,14 @@
   </url>
   
   <url>
-    <loc>https://www.xmeta.love/categories/%E9%85%8D%E7%BD%AE%E7%B1%BB/</loc>
+    <loc>https://www.xmeta.love/categories/Setting/</loc>
     <lastmod>2023-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.xmeta.love/categories/Setting/</loc>
+    <loc>https://www.xmeta.love/categories/%E9%85%8D%E7%BD%AE%E7%B1%BB/</loc>
     <lastmod>2023-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
