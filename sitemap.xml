@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://www.xmeta.love/archives/tools/test1.html</loc>
+    <loc>https://www.xmeta.love/archives/tools/test.html</loc>
     
     <lastmod>2023-10-26</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://www.xmeta.love/archives/tools/test.html</loc>
+    <loc>https://www.xmeta.love/archives/tools/test1.html</loc>
     
     <lastmod>2023-10-26</lastmod>
     
@@ -332,20 +332,6 @@
   </url>
   
   <url>
-    <loc>https://www.xmeta.love/tags/hexo/</loc>
-    <lastmod>2023-12-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xmeta.love/tags/butterfly/</loc>
-    <lastmod>2023-12-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.xmeta.love/tags/Vue/</loc>
     <lastmod>2023-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -354,6 +340,20 @@
   
   <url>
     <loc>https://www.xmeta.love/tags/Icon/</loc>
+    <lastmod>2023-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xmeta.love/tags/hexo/</loc>
+    <lastmod>2023-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xmeta.love/tags/butterfly/</loc>
     <lastmod>2023-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
