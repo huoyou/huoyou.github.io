@@ -53,11 +53,11 @@
     <lastmod>2023-10-26</lastmod>
   </url>
   <url>
-    <loc>https://www.xmeta.love/archives/interview/browser-catch.html</loc>
+    <loc>https://www.xmeta.love/archives/interview/browser.html</loc>
     <lastmod>2023-10-26</lastmod>
   </url>
   <url>
-    <loc>https://www.xmeta.love/archives/interview/browser.html</loc>
+    <loc>https://www.xmeta.love/archives/interview/browser-catch.html</loc>
     <lastmod>2023-10-26</lastmod>
   </url>
   <url>
@@ -85,11 +85,7 @@
     <lastmod>2023-10-26</lastmod>
   </url>
   <url>
-    <loc>https://www.xmeta.love/archives/code/dev-problems.html</loc>
-    <lastmod>2023-10-26</lastmod>
-  </url>
-  <url>
-    <loc>https://www.xmeta.love/archives/code/eslint.html</loc>
+    <loc>https://www.xmeta.love/archives/code/iconify.html</loc>
     <lastmod>2023-10-26</lastmod>
   </url>
   <url>
@@ -97,7 +93,11 @@
     <lastmod>2023-10-26</lastmod>
   </url>
   <url>
-    <loc>https://www.xmeta.love/archives/code/iconify.html</loc>
+    <loc>https://www.xmeta.love/archives/code/eslint.html</loc>
+    <lastmod>2023-10-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.xmeta.love/archives/code/dev-problems.html</loc>
     <lastmod>2023-10-26</lastmod>
   </url>
 </urlset> 
