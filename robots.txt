@@ -1,0 +1,28 @@
+# 允许所有用户代理的浏览器爬虫进行访问（爬取数据）
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /tags/
+Allow: /categories/
+Allow: /comments/
+Allow: /link/
+Allow: /books/
+Allow: /movies/
+Allow: /games/
+
+
+
+# 不允许访问的内容
+Disallow: /img/
+Disallow: /css/
+Disallow: /js/
+Disallow: /photos/
+Disallow: /*.css
+Disallow: /*.js
+
+Sitemap: http://www.xmeta.love/sitemap.xml
+Sitemap: http://www.xmeta.love/baidusitemap.xml
+
+
+Sitemap: https://www.xmeta.love/sitemap.xml
+Sitemap: https://www.xmeta.love/baidusitemap.xml

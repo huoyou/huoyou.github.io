@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>huoyou博客</title>
+  <icon>https://www.xmeta.love/icon.png</icon>
+  
+  <link href="https://www.xmeta.love/atom.xml" rel="self"/>
+  
+  <link href="https://www.xmeta.love/"/>
+  <updated>2023-10-26T01:22:53.857Z</updated>
+  <id>https://www.xmeta.love/</id>
+  
+  <author>
+    <name>huoyou</name>
+    <email>huoyou1234@gmail.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>webhooks中node npm pnpm不生效</title>
+    <link href="https://www.xmeta.love/archives/settings/%E4%BA%91%E6%9C%8D%E5%8A%A1%E7%9B%B8%E5%85%B3%E9%85%8D%E7%BD%AE.html"/>
+    <id>https://www.xmeta.love/archives/settings/%E4%BA%91%E6%9C%8D%E5%8A%A1%E7%9B%B8%E5%85%B3%E9%85%8D%E7%BD%AE.html</id>
+    <published>2022-08-29T15:55:18.000Z</published>
+    <updated>2023-10-26T01:22:53.857Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="配置类" scheme="https://www.xmeta.love/categories/%E9%85%8D%E7%BD%AE%E7%B1%BB/"/>
+    
+    
+    <category term="云服务" scheme="https://www.xmeta.love/tags/%E4%BA%91%E6%9C%8D%E5%8A%A1/"/>
+    
+    <category term="Shell" scheme="https://www.xmeta.love/tags/Shell/"/>
+    
+    <category term="Webhooks" scheme="https://www.xmeta.love/tags/Webhooks/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo,butterfly添加系列文章功能（二级目录）</title>
+    <link href="https://www.xmeta.love/archives/hexo/series.html"/>
+    <id>https://www.xmeta.love/archives/hexo/series.html</id>
+    <published>2022-01-19T07:33:49.000Z</published>
+    <updated>2023-10-26T01:22:53.855Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;本篇文章基於 hexo +</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="https://www.xmeta.love/categories/hexo/"/>
+    
+    
+    <category term="hexo" scheme="https://www.xmeta.love/tags/hexo/"/>
+    
+    <category term="butterfly" scheme="https://www.xmeta.love/tags/butterfly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test1</title>
+    <link href="https://www.xmeta.love/archives/tools/test1.html"/>
+    <id>https://www.xmeta.love/archives/tools/test1.html</id>
+    <published>2022-01-18T13:59:33.000Z</published>
+    <updated>2023-10-26T01:22:53.858Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;test1&quot;&gt;&lt;a href=&quot;#test1&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Tools" scheme="https://www.xmeta.love/categories/Tools/"/>
+    
+    
+    <category term="Tools" scheme="https://www.xmeta.love/tags/Tools/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://www.xmeta.love/archives/tools/test.html"/>
+    <id>https://www.xmeta.love/archives/tools/test.html</id>
+    <published>2022-01-18T13:57:56.000Z</published>
+    <updated>2023-10-26T01:22:53.858Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;test&quot;&gt;&lt;a href=&quot;#test&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Tools" scheme="https://www.xmeta.love/categories/Tools/"/>
+    
+    
+    <category term="Tools" scheme="https://www.xmeta.love/tags/Tools/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>defineProperty与proxy的区别</title>
+    <link href="https://www.xmeta.love/archives/code/proxy.html"/>
+    <id>https://www.xmeta.love/archives/code/proxy.html</id>
+    <published>2022-01-16T07:01:18.000Z</published>
+    <updated>2023-10-26T01:22:53.855Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;definePropety&quot;&gt;&lt;a href=&quot;#definePropety&quot; class=&quot;headerlink&quot; title=&quot;definePropety&quot;&gt;&lt;/a&gt;definePropety&lt;/h2&gt;&lt;p&gt;ES5 提供了</summary>
+        
+      
+    
+    
+    
+    <category term="Code" scheme="https://www.xmeta.love/categories/Code/"/>
+    
+    
+    <category term="Javascript" scheme="https://www.xmeta.love/tags/Javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>宝塔部署egg，并使用域名访问</title>
+    <link href="https://www.xmeta.love/archives/other/egg.html"/>
+    <id>https://www.xmeta.love/archives/other/egg.html</id>
+    <published>2022-01-13T02:35:53.000Z</published>
+    <updated>2023-10-26T01:22:53.856Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;具体创建 egg 项目这里就不做过多叙述…请查看官网文档，本篇建立与已有 egg 仓库，宝塔的基础上。&lt;/p&gt;
+&lt;h2 id=&quot;添加站点&quot;&gt;&lt;a href=&quot;#添加站点&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Other" scheme="https://www.xmeta.love/categories/Other/"/>
+    
+    
+    <category term="Egg" scheme="https://www.xmeta.love/tags/Egg/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vue项目中使用iconify图标集</title>
+    <link href="https://www.xmeta.love/archives/code/iconify.html"/>
+    <id>https://www.xmeta.love/archives/code/iconify.html</id>
+    <published>2022-01-02T13:06:56.000Z</published>
+    <updated>2023-10-26T01:22:53.854Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;安装插件&quot;&gt;&lt;a href=&quot;#安装插件&quot; class=&quot;headerlink&quot; title=&quot;安装插件&quot;&gt;&lt;/a&gt;安装插件&lt;/h2&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
+        
+      
+    
+    
+    
+    <category term="Code" scheme="https://www.xmeta.love/categories/Code/"/>
+    
+    
+    <category term="Vue" scheme="https://www.xmeta.love/tags/Vue/"/>
+    
+    <category term="Icon" scheme="https://www.xmeta.love/tags/Icon/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>typora + picgo + github + jsdelivr搭建图床</title>
+    <link href="https://www.xmeta.love/archives/tools/image-bed.html"/>
+    <id>https://www.xmeta.love/archives/tools/image-bed.html</id>
+    <published>2021-12-19T07:49:52.000Z</published>
+    <updated>2023-10-26T01:22:53.857Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;github&quot;&gt;&lt;a href=&quot;#github&quot; class=&quot;headerlink&quot; title=&quot;github&quot;&gt;&lt;/a&gt;github&lt;/h2&gt;&lt;h3 id=&quot;新建仓库&quot;&gt;&lt;a href=&quot;#新建仓库&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Tools" scheme="https://www.xmeta.love/categories/Tools/"/>
+    
+    
+    <category term="Typora" scheme="https://www.xmeta.love/tags/Typora/"/>
+    
+    <category term="PicGo" scheme="https://www.xmeta.love/tags/PicGo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>解决eslint，stylelint，prettier冲突</title>
+    <link href="https://www.xmeta.love/archives/code/dev-problems.html"/>
+    <id>https://www.xmeta.love/archives/code/dev-problems.html</id>
+    <published>2021-10-31T07:01:18.000Z</published>
+    <updated>2023-10-26T01:22:53.854Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Delete-；-eslint-prettier-prettier&quot;&gt;&lt;a href=&quot;#Delete-；-eslint-prettier-prettier&quot; class=&quot;headerlink&quot; title=&quot;Delete ；</summary>
+        
+      
+    
+    
+    
+    <category term="Code" scheme="https://www.xmeta.love/categories/Code/"/>
+    
+    
+    <category term="Eslint" scheme="https://www.xmeta.love/tags/Eslint/"/>
+    
+    <category term="Prettier" scheme="https://www.xmeta.love/tags/Prettier/"/>
+    
+    <category term="Stylelint" scheme="https://www.xmeta.love/tags/Stylelint/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Surfingkeys常用命令</title>
+    <link href="https://www.xmeta.love/archives/tools/surfingkeys.html"/>
+    <id>https://www.xmeta.love/archives/tools/surfingkeys.html</id>
+    <published>2021-09-21T11:19:56.000Z</published>
+    <updated>2023-10-26T01:22:53.857Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;滚动&quot;&gt;&lt;a href=&quot;#滚动&quot; class=&quot;headerlink&quot; title=&quot;滚动&quot;&gt;&lt;/a&gt;滚动&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;center&quot;&gt;按键&lt;/th&gt;
+&lt;th</summary>
+        
+      
+    
+    
+    
+    <category term="Tools" scheme="https://www.xmeta.love/categories/Tools/"/>
+    
+    
+    <category term="Tools" scheme="https://www.xmeta.love/tags/Tools/"/>
+    
+    <category term="Surfingkeys" scheme="https://www.xmeta.love/tags/Surfingkeys/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>whistle调试线上代码</title>
+    <link href="https://www.xmeta.love/archives/tools/whistle.html"/>
+    <id>https://www.xmeta.love/archives/tools/whistle.html</id>
+    <published>2021-08-05T03:29:40.000Z</published>
+    <updated>2023-10-26T01:22:53.858Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;先來说说whistle使用场景&lt;/p&gt;
+&lt;p&gt;本司远古代码采用的还是前后端未分离的那一套，修改文件想要看效果就必须部署一遍，所谓开发十分钟，部署十分钟，不过与此。我的使用场景主要是用来替换线上js、css为本地文件，便于开发调试。&lt;/p&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="Tools" scheme="https://www.xmeta.love/categories/Tools/"/>
+    
+    
+    <category term="Tools" scheme="https://www.xmeta.love/tags/Tools/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Butterfly标签外挂</title>
+    <link href="https://www.xmeta.love/archives/hexo/butterfly-tags.html"/>
+    <id>https://www.xmeta.love/archives/hexo/butterfly-tags.html</id>
+    <published>2021-08-01T13:22:40.000Z</published>
+    <updated>2023-11-27T09:46:51.959Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;div class=&quot;note blue icon simple&quot;&gt;&lt;i class=&quot;note-icon fas fa-bullhorn&quot;&gt;&lt;/i&gt;&lt;p&gt;本文来自 &lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="https://www.xmeta.love/categories/hexo/"/>
+    
+    
+    <category term="hexo" scheme="https://www.xmeta.love/tags/hexo/"/>
+    
+    <category term="butterfly" scheme="https://www.xmeta.love/tags/butterfly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Moboxterm基础使用教程</title>
+    <link href="https://www.xmeta.love/archives/tools/moboxterm.html"/>
+    <id>https://www.xmeta.love/archives/tools/moboxterm.html</id>
+    <published>2021-07-21T02:28:33.000Z</published>
+    <updated>2023-10-26T01:22:53.857Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;figure class=&quot;highlight text&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="Tools" scheme="https://www.xmeta.love/categories/Tools/"/>
+    
+    
+    <category term="Tools" scheme="https://www.xmeta.love/tags/Tools/"/>
+    
+    <category term="Moboxterm" scheme="https://www.xmeta.love/tags/Moboxterm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>FinalShell基础使用教程</title>
+    <link href="https://www.xmeta.love/archives/tools/finalShell.html"/>
+    <id>https://www.xmeta.love/archives/tools/finalShell.html</id>
+    <published>2021-02-06T11:19:57.000Z</published>
+    <updated>2023-10-26T01:22:53.857Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;终端&quot;&gt;&lt;a href=&quot;#终端&quot; class=&quot;headerlink&quot; title=&quot;终端:&quot;&gt;&lt;/a&gt;终端:&lt;/h2&gt;&lt;figure class=&quot;highlight text&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
+        
+      
+    
+    
+    
+    <category term="Tools" scheme="https://www.xmeta.love/categories/Tools/"/>
+    
+    
+    <category term="Tools" scheme="https://www.xmeta.love/tags/Tools/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>sourcetree中针对不同仓库设置不同账户</title>
+    <link href="https://www.xmeta.love/archives/tools/sourcetree.html"/>
+    <id>https://www.xmeta.love/archives/tools/sourcetree.html</id>
+    <published>2021-01-21T09:18:26.000Z</published>
+    <updated>2023-10-26T01:22:53.857Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;介绍之前，先来说说应用场景。由于公司要求使用统一的账户邮箱提交代码，于是便将全局的用户信息设置成了公司要求的账户，但是个人代码提交的时候并不想使用这个用户信息，所以有了这篇小记~&lt;/p&gt;
+&lt;h2 id=&quot;全局用户信息&quot;&gt;&lt;a href=&quot;#全局用户信息&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Tools" scheme="https://www.xmeta.love/categories/Tools/"/>
+    
+    
+    <category term="Tools" scheme="https://www.xmeta.love/tags/Tools/"/>
+    
+    <category term="Sourcetree" scheme="https://www.xmeta.love/tags/Sourcetree/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>git常用命令</title>
+    <link href="https://www.xmeta.love/archives/other/git.html"/>
+    <id>https://www.xmeta.love/archives/other/git.html</id>
+    <published>2021-01-13T02:22:45.000Z</published>
+    <updated>2023-10-26T01:22:53.856Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;一般来说，日常使用只要记住下图 6 个命令，就可以了。但是熟练使用，恐怕要记住 60 ～ 100 个命令~。&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="Other" scheme="https://www.xmeta.love/categories/Other/"/>
+    
+    
+    <category term="Git" scheme="https://www.xmeta.love/tags/Git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>开发中遇到的错误</title>
+    <link href="https://www.xmeta.love/archives/other/error.html"/>
+    <id>https://www.xmeta.love/archives/other/error.html</id>
+    <published>2020-11-05T07:14:47.000Z</published>
+    <updated>2023-10-26T01:22:53.856Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;ssh-connect-to-host-github-com-port-22-Connection-timed-out&quot;&gt;&lt;a href=&quot;#ssh-connect-to-host-github-com-port-22-Connection-timed-out&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Other" scheme="https://www.xmeta.love/categories/Other/"/>
+    
+    
+    <category term="Git" scheme="https://www.xmeta.love/tags/Git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>浏览器缓存</title>
+    <link href="https://www.xmeta.love/archives/interview/browser-catch.html"/>
+    <id>https://www.xmeta.love/archives/interview/browser-catch.html</id>
+    <published>2020-09-20T13:16:22.000Z</published>
+    <updated>2023-10-26T01:22:53.856Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://www.oschina.net/translate/cache_docs&quot;&gt;参考链接&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;表述：HTML 页面、图片和文件等的统称&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Web</summary>
+        
+      
+    
+    
+    
+    <category term="Interview" scheme="https://www.xmeta.love/categories/Interview/"/>
+    
+    
+    <category term="Browser" scheme="https://www.xmeta.love/tags/Browser/"/>
+    
+    <category term="Catch" scheme="https://www.xmeta.love/tags/Catch/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>浏览器相关面试题</title>
+    <link href="https://www.xmeta.love/archives/interview/browser.html"/>
+    <id>https://www.xmeta.love/archives/interview/browser.html</id>
+    <published>2020-07-20T12:35:53.000Z</published>
+    <updated>2023-10-26T01:22:53.856Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;1-cookie，localStorage，sessionStorage，indexDB&quot;&gt;&lt;a href=&quot;#1-cookie，localStorage，sessionStorage，indexDB&quot; class=&quot;headerlink&quot; title=&quot;1.</summary>
+        
+      
+    
+    
+    
+    <category term="Interview" scheme="https://www.xmeta.love/categories/Interview/"/>
+    
+    
+    <category term="Browser" scheme="https://www.xmeta.love/tags/Browser/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>算法函数</title>
+    <link href="https://www.xmeta.love/archives/interview/algorithm.html"/>
+    <id>https://www.xmeta.love/archives/interview/algorithm.html</id>
+    <published>2020-06-12T09:48:18.000Z</published>
+    <updated>2023-10-26T01:22:53.855Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;1-childStr-为-abc-parentStr-为-wrlbgcab-返回-true-因为-wrlbgcab-包含了-abc-的一个排列-cab&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Interview" scheme="https://www.xmeta.love/categories/Interview/"/>
+    
+    
+    <category term="Javascript" scheme="https://www.xmeta.love/tags/Javascript/"/>
+    
+  </entry>
+  
+</feed>
