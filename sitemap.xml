@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://www.xmeta.love/link/index.html</loc>
+    <loc>https://www.xmeta.love/tags/index.html</loc>
     
     <lastmod>2023-10-26</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://www.xmeta.love/tags/index.html</loc>
+    <loc>https://www.xmeta.love/link/index.html</loc>
     
     <lastmod>2023-10-26</lastmod>
     
@@ -227,7 +227,7 @@
   </url>
   
   <url>
-    <loc>https://www.xmeta.love/archives/interview/algorithm.html</loc>
+    <loc>https://www.xmeta.love/archives/hexo/series.html</loc>
     
     <lastmod>2023-10-26</lastmod>
     
@@ -236,7 +236,7 @@
   </url>
   
   <url>
-    <loc>https://www.xmeta.love/archives/hexo/series.html</loc>
+    <loc>https://www.xmeta.love/archives/interview/algorithm.html</loc>
     
     <lastmod>2023-10-26</lastmod>
     
@@ -346,20 +346,6 @@
   </url>
   
   <url>
-    <loc>https://www.xmeta.love/tags/Browser/</loc>
-    <lastmod>2023-12-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xmeta.love/tags/Catch/</loc>
-    <lastmod>2023-12-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.xmeta.love/tags/hexo/</loc>
     <lastmod>2023-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -368,6 +354,20 @@
   
   <url>
     <loc>https://www.xmeta.love/tags/butterfly/</loc>
+    <lastmod>2023-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xmeta.love/tags/Browser/</loc>
+    <lastmod>2023-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xmeta.love/tags/Catch/</loc>
     <lastmod>2023-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -481,14 +481,14 @@
   </url>
   
   <url>
-    <loc>https://www.xmeta.love/categories/Interview/</loc>
+    <loc>https://www.xmeta.love/categories/hexo/</loc>
     <lastmod>2023-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.xmeta.love/categories/hexo/</loc>
+    <loc>https://www.xmeta.love/categories/Interview/</loc>
     <lastmod>2023-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
