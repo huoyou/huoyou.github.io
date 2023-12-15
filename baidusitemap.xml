@@ -45,15 +45,11 @@
     <lastmod>2023-10-26</lastmod>
   </url>
   <url>
-    <loc>https://www.xmeta.love/archives/tools/surfingkeys.html</loc>
-    <lastmod>2023-10-26</lastmod>
-  </url>
-  <url>
     <loc>https://www.xmeta.love/archives/tools/switchHosts.html</loc>
     <lastmod>2023-10-26</lastmod>
   </url>
   <url>
-    <loc>https://www.xmeta.love/archives/interview/browser-catch.html</loc>
+    <loc>https://www.xmeta.love/archives/tools/surfingkeys.html</loc>
     <lastmod>2023-10-26</lastmod>
   </url>
   <url>
@@ -66,6 +62,10 @@
   </url>
   <url>
     <loc>https://www.xmeta.love/archives/other/error.html</loc>
+    <lastmod>2023-10-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.xmeta.love/archives/interview/browser-catch.html</loc>
     <lastmod>2023-10-26</lastmod>
   </url>
   <url>
@@ -89,15 +89,15 @@
     <lastmod>2023-10-26</lastmod>
   </url>
   <url>
-    <loc>https://www.xmeta.love/archives/code/eslint.html</loc>
-    <lastmod>2023-10-26</lastmod>
-  </url>
-  <url>
     <loc>https://www.xmeta.love/archives/code/event-loop.html</loc>
     <lastmod>2023-10-26</lastmod>
   </url>
   <url>
     <loc>https://www.xmeta.love/archives/code/iconify.html</loc>
+    <lastmod>2023-10-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.xmeta.love/archives/code/eslint.html</loc>
     <lastmod>2023-10-26</lastmod>
   </url>
 </urlset> 
