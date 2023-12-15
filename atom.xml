@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>huoyou博客</title>
-  <icon>https://www.xmeta.love/icon.png</icon>
+  <icon>https://hoyou.github.io/icon.png</icon>
   
-  <link href="https://www.xmeta.love/atom.xml" rel="self"/>
+  <link href="https://hoyou.github.io/atom.xml" rel="self"/>
   
-  <link href="https://www.xmeta.love/"/>
+  <link href="https://hoyou.github.io/"/>
   <updated>2023-10-26T01:22:53.857Z</updated>
-  <id>https://www.xmeta.love/</id>
+  <id>https://hoyou.github.io/</id>
   
   <author>
     <name>huoyou</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>webhooks中node npm pnpm不生效</title>
-    <link href="https://www.xmeta.love/archives/settings/%E4%BA%91%E6%9C%8D%E5%8A%A1%E7%9B%B8%E5%85%B3%E9%85%8D%E7%BD%AE.html"/>
-    <id>https://www.xmeta.love/archives/settings/%E4%BA%91%E6%9C%8D%E5%8A%A1%E7%9B%B8%E5%85%B3%E9%85%8D%E7%BD%AE.html</id>
+    <link href="https://hoyou.github.io/archives/settings/%E4%BA%91%E6%9C%8D%E5%8A%A1%E7%9B%B8%E5%85%B3%E9%85%8D%E7%BD%AE.html"/>
+    <id>https://hoyou.github.io/archives/settings/%E4%BA%91%E6%9C%8D%E5%8A%A1%E7%9B%B8%E5%85%B3%E9%85%8D%E7%BD%AE.html</id>
     <published>2022-08-29T15:55:18.000Z</published>
     <updated>2023-10-26T01:22:53.857Z</updated>
     
@@ -34,21 +34,21 @@
     
     
     
-    <category term="配置类" scheme="https://www.xmeta.love/categories/%E9%85%8D%E7%BD%AE%E7%B1%BB/"/>
+    <category term="配置类" scheme="https://hoyou.github.io/categories/%E9%85%8D%E7%BD%AE%E7%B1%BB/"/>
     
     
-    <category term="云服务" scheme="https://www.xmeta.love/tags/%E4%BA%91%E6%9C%8D%E5%8A%A1/"/>
+    <category term="云服务" scheme="https://hoyou.github.io/tags/%E4%BA%91%E6%9C%8D%E5%8A%A1/"/>
     
-    <category term="Shell" scheme="https://www.xmeta.love/tags/Shell/"/>
+    <category term="Shell" scheme="https://hoyou.github.io/tags/Shell/"/>
     
-    <category term="Webhooks" scheme="https://www.xmeta.love/tags/Webhooks/"/>
+    <category term="Webhooks" scheme="https://hoyou.github.io/tags/Webhooks/"/>
     
   </entry>
   
   <entry>
     <title>hexo,butterfly添加系列文章功能（二级目录）</title>
-    <link href="https://www.xmeta.love/archives/hexo/series.html"/>
-    <id>https://www.xmeta.love/archives/hexo/series.html</id>
+    <link href="https://hoyou.github.io/archives/hexo/series.html"/>
+    <id>https://hoyou.github.io/archives/hexo/series.html</id>
     <published>2022-01-19T07:33:49.000Z</published>
     <updated>2023-10-26T01:22:53.855Z</updated>
     
@@ -63,19 +63,19 @@
     
     
     
-    <category term="hexo" scheme="https://www.xmeta.love/categories/hexo/"/>
+    <category term="hexo" scheme="https://hoyou.github.io/categories/hexo/"/>
     
     
-    <category term="hexo" scheme="https://www.xmeta.love/tags/hexo/"/>
+    <category term="hexo" scheme="https://hoyou.github.io/tags/hexo/"/>
     
-    <category term="butterfly" scheme="https://www.xmeta.love/tags/butterfly/"/>
+    <category term="butterfly" scheme="https://hoyou.github.io/tags/butterfly/"/>
     
   </entry>
   
   <entry>
     <title>test1</title>
-    <link href="https://www.xmeta.love/archives/tools/test1.html"/>
-    <id>https://www.xmeta.love/archives/tools/test1.html</id>
+    <link href="https://hoyou.github.io/archives/tools/test1.html"/>
+    <id>https://hoyou.github.io/archives/tools/test1.html</id>
     <published>2022-01-18T13:59:33.000Z</published>
     <updated>2023-10-26T01:22:53.858Z</updated>
     
@@ -90,17 +90,17 @@
     
     
     
-    <category term="Tools" scheme="https://www.xmeta.love/categories/Tools/"/>
+    <category term="Tools" scheme="https://hoyou.github.io/categories/Tools/"/>
     
     
-    <category term="Tools" scheme="https://www.xmeta.love/tags/Tools/"/>
+    <category term="Tools" scheme="https://hoyou.github.io/tags/Tools/"/>
     
   </entry>
   
   <entry>
     <title>test</title>
-    <link href="https://www.xmeta.love/archives/tools/test.html"/>
-    <id>https://www.xmeta.love/archives/tools/test.html</id>
+    <link href="https://hoyou.github.io/archives/tools/test.html"/>
+    <id>https://hoyou.github.io/archives/tools/test.html</id>
     <published>2022-01-18T13:57:56.000Z</published>
     <updated>2023-10-26T01:22:53.858Z</updated>
     
@@ -115,17 +115,17 @@
     
     
     
-    <category term="Tools" scheme="https://www.xmeta.love/categories/Tools/"/>
+    <category term="Tools" scheme="https://hoyou.github.io/categories/Tools/"/>
     
     
-    <category term="Tools" scheme="https://www.xmeta.love/tags/Tools/"/>
+    <category term="Tools" scheme="https://hoyou.github.io/tags/Tools/"/>
     
   </entry>
   
   <entry>
     <title>defineProperty与proxy的区别</title>
-    <link href="https://www.xmeta.love/archives/code/proxy.html"/>
-    <id>https://www.xmeta.love/archives/code/proxy.html</id>
+    <link href="https://hoyou.github.io/archives/code/proxy.html"/>
+    <id>https://hoyou.github.io/archives/code/proxy.html</id>
     <published>2022-01-16T07:01:18.000Z</published>
     <updated>2023-10-26T01:22:53.855Z</updated>
     
@@ -140,17 +140,17 @@
     
     
     
-    <category term="Code" scheme="https://www.xmeta.love/categories/Code/"/>
+    <category term="Code" scheme="https://hoyou.github.io/categories/Code/"/>
     
     
-    <category term="Javascript" scheme="https://www.xmeta.love/tags/Javascript/"/>
+    <category term="Javascript" scheme="https://hoyou.github.io/tags/Javascript/"/>
     
   </entry>
   
   <entry>
     <title>宝塔部署egg，并使用域名访问</title>
-    <link href="https://www.xmeta.love/archives/other/egg.html"/>
-    <id>https://www.xmeta.love/archives/other/egg.html</id>
+    <link href="https://hoyou.github.io/archives/other/egg.html"/>
+    <id>https://hoyou.github.io/archives/other/egg.html</id>
     <published>2022-01-13T02:35:53.000Z</published>
     <updated>2023-10-26T01:22:53.856Z</updated>
     
@@ -166,17 +166,17 @@
     
     
     
-    <category term="Other" scheme="https://www.xmeta.love/categories/Other/"/>
+    <category term="Other" scheme="https://hoyou.github.io/categories/Other/"/>
     
     
-    <category term="Egg" scheme="https://www.xmeta.love/tags/Egg/"/>
+    <category term="Egg" scheme="https://hoyou.github.io/tags/Egg/"/>
     
   </entry>
   
   <entry>
     <title>vue项目中使用iconify图标集</title>
-    <link href="https://www.xmeta.love/archives/code/iconify.html"/>
-    <id>https://www.xmeta.love/archives/code/iconify.html</id>
+    <link href="https://hoyou.github.io/archives/code/iconify.html"/>
+    <id>https://hoyou.github.io/archives/code/iconify.html</id>
     <published>2022-01-02T13:06:56.000Z</published>
     <updated>2023-10-26T01:22:53.854Z</updated>
     
@@ -191,19 +191,19 @@
     
     
     
-    <category term="Code" scheme="https://www.xmeta.love/categories/Code/"/>
+    <category term="Code" scheme="https://hoyou.github.io/categories/Code/"/>
     
     
-    <category term="Vue" scheme="https://www.xmeta.love/tags/Vue/"/>
+    <category term="Vue" scheme="https://hoyou.github.io/tags/Vue/"/>
     
-    <category term="Icon" scheme="https://www.xmeta.love/tags/Icon/"/>
+    <category term="Icon" scheme="https://hoyou.github.io/tags/Icon/"/>
     
   </entry>
   
   <entry>
     <title>typora + picgo + github + jsdelivr搭建图床</title>
-    <link href="https://www.xmeta.love/archives/tools/image-bed.html"/>
-    <id>https://www.xmeta.love/archives/tools/image-bed.html</id>
+    <link href="https://hoyou.github.io/archives/tools/image-bed.html"/>
+    <id>https://hoyou.github.io/archives/tools/image-bed.html</id>
     <published>2021-12-19T07:49:52.000Z</published>
     <updated>2023-10-26T01:22:53.857Z</updated>
     
@@ -218,19 +218,19 @@
     
     
     
-    <category term="Tools" scheme="https://www.xmeta.love/categories/Tools/"/>
+    <category term="Tools" scheme="https://hoyou.github.io/categories/Tools/"/>
     
     
-    <category term="Typora" scheme="https://www.xmeta.love/tags/Typora/"/>
+    <category term="Typora" scheme="https://hoyou.github.io/tags/Typora/"/>
     
-    <category term="PicGo" scheme="https://www.xmeta.love/tags/PicGo/"/>
+    <category term="PicGo" scheme="https://hoyou.github.io/tags/PicGo/"/>
     
   </entry>
   
   <entry>
     <title>解决eslint，stylelint，prettier冲突</title>
-    <link href="https://www.xmeta.love/archives/code/dev-problems.html"/>
-    <id>https://www.xmeta.love/archives/code/dev-problems.html</id>
+    <link href="https://hoyou.github.io/archives/code/dev-problems.html"/>
+    <id>https://hoyou.github.io/archives/code/dev-problems.html</id>
     <published>2021-10-31T07:01:18.000Z</published>
     <updated>2023-10-26T01:22:53.854Z</updated>
     
@@ -245,21 +245,21 @@
     
     
     
-    <category term="Code" scheme="https://www.xmeta.love/categories/Code/"/>
+    <category term="Code" scheme="https://hoyou.github.io/categories/Code/"/>
     
     
-    <category term="Eslint" scheme="https://www.xmeta.love/tags/Eslint/"/>
+    <category term="Eslint" scheme="https://hoyou.github.io/tags/Eslint/"/>
     
-    <category term="Prettier" scheme="https://www.xmeta.love/tags/Prettier/"/>
+    <category term="Prettier" scheme="https://hoyou.github.io/tags/Prettier/"/>
     
-    <category term="Stylelint" scheme="https://www.xmeta.love/tags/Stylelint/"/>
+    <category term="Stylelint" scheme="https://hoyou.github.io/tags/Stylelint/"/>
     
   </entry>
   
   <entry>
     <title>Surfingkeys常用命令</title>
-    <link href="https://www.xmeta.love/archives/tools/surfingkeys.html"/>
-    <id>https://www.xmeta.love/archives/tools/surfingkeys.html</id>
+    <link href="https://hoyou.github.io/archives/tools/surfingkeys.html"/>
+    <id>https://hoyou.github.io/archives/tools/surfingkeys.html</id>
     <published>2021-09-21T11:19:56.000Z</published>
     <updated>2023-10-26T01:22:53.857Z</updated>
     
@@ -278,19 +278,19 @@
     
     
     
-    <category term="Tools" scheme="https://www.xmeta.love/categories/Tools/"/>
+    <category term="Tools" scheme="https://hoyou.github.io/categories/Tools/"/>
     
     
-    <category term="Tools" scheme="https://www.xmeta.love/tags/Tools/"/>
+    <category term="Tools" scheme="https://hoyou.github.io/tags/Tools/"/>
     
-    <category term="Surfingkeys" scheme="https://www.xmeta.love/tags/Surfingkeys/"/>
+    <category term="Surfingkeys" scheme="https://hoyou.github.io/tags/Surfingkeys/"/>
     
   </entry>
   
   <entry>
     <title>whistle调试线上代码</title>
-    <link href="https://www.xmeta.love/archives/tools/whistle.html"/>
-    <id>https://www.xmeta.love/archives/tools/whistle.html</id>
+    <link href="https://hoyou.github.io/archives/tools/whistle.html"/>
+    <id>https://hoyou.github.io/archives/tools/whistle.html</id>
     <published>2021-08-05T03:29:40.000Z</published>
     <updated>2023-10-26T01:22:53.858Z</updated>
     
@@ -307,17 +307,17 @@
     
     
     
-    <category term="Tools" scheme="https://www.xmeta.love/categories/Tools/"/>
+    <category term="Tools" scheme="https://hoyou.github.io/categories/Tools/"/>
     
     
-    <category term="Tools" scheme="https://www.xmeta.love/tags/Tools/"/>
+    <category term="Tools" scheme="https://hoyou.github.io/tags/Tools/"/>
     
   </entry>
   
   <entry>
     <title>Butterfly标签外挂</title>
-    <link href="https://www.xmeta.love/archives/hexo/butterfly-tags.html"/>
-    <id>https://www.xmeta.love/archives/hexo/butterfly-tags.html</id>
+    <link href="https://hoyou.github.io/archives/hexo/butterfly-tags.html"/>
+    <id>https://hoyou.github.io/archives/hexo/butterfly-tags.html</id>
     <published>2021-08-01T13:22:40.000Z</published>
     <updated>2023-11-27T09:46:51.959Z</updated>
     
@@ -332,19 +332,19 @@
     
     
     
-    <category term="hexo" scheme="https://www.xmeta.love/categories/hexo/"/>
+    <category term="hexo" scheme="https://hoyou.github.io/categories/hexo/"/>
     
     
-    <category term="hexo" scheme="https://www.xmeta.love/tags/hexo/"/>
+    <category term="hexo" scheme="https://hoyou.github.io/tags/hexo/"/>
     
-    <category term="butterfly" scheme="https://www.xmeta.love/tags/butterfly/"/>
+    <category term="butterfly" scheme="https://hoyou.github.io/tags/butterfly/"/>
     
   </entry>
   
   <entry>
     <title>Moboxterm基础使用教程</title>
-    <link href="https://www.xmeta.love/archives/tools/moboxterm.html"/>
-    <id>https://www.xmeta.love/archives/tools/moboxterm.html</id>
+    <link href="https://hoyou.github.io/archives/tools/moboxterm.html"/>
+    <id>https://hoyou.github.io/archives/tools/moboxterm.html</id>
     <published>2021-07-21T02:28:33.000Z</published>
     <updated>2023-10-26T01:22:53.857Z</updated>
     
@@ -359,19 +359,19 @@
     
     
     
-    <category term="Tools" scheme="https://www.xmeta.love/categories/Tools/"/>
+    <category term="Tools" scheme="https://hoyou.github.io/categories/Tools/"/>
     
     
-    <category term="Tools" scheme="https://www.xmeta.love/tags/Tools/"/>
+    <category term="Tools" scheme="https://hoyou.github.io/tags/Tools/"/>
     
-    <category term="Moboxterm" scheme="https://www.xmeta.love/tags/Moboxterm/"/>
+    <category term="Moboxterm" scheme="https://hoyou.github.io/tags/Moboxterm/"/>
     
   </entry>
   
   <entry>
     <title>FinalShell基础使用教程</title>
-    <link href="https://www.xmeta.love/archives/tools/finalShell.html"/>
-    <id>https://www.xmeta.love/archives/tools/finalShell.html</id>
+    <link href="https://hoyou.github.io/archives/tools/finalShell.html"/>
+    <id>https://hoyou.github.io/archives/tools/finalShell.html</id>
     <published>2021-02-06T11:19:57.000Z</published>
     <updated>2023-10-26T01:22:53.857Z</updated>
     
@@ -386,17 +386,17 @@
     
     
     
-    <category term="Tools" scheme="https://www.xmeta.love/categories/Tools/"/>
+    <category term="Tools" scheme="https://hoyou.github.io/categories/Tools/"/>
     
     
-    <category term="Tools" scheme="https://www.xmeta.love/tags/Tools/"/>
+    <category term="Tools" scheme="https://hoyou.github.io/tags/Tools/"/>
     
   </entry>
   
   <entry>
     <title>sourcetree中针对不同仓库设置不同账户</title>
-    <link href="https://www.xmeta.love/archives/tools/sourcetree.html"/>
-    <id>https://www.xmeta.love/archives/tools/sourcetree.html</id>
+    <link href="https://hoyou.github.io/archives/tools/sourcetree.html"/>
+    <id>https://hoyou.github.io/archives/tools/sourcetree.html</id>
     <published>2021-01-21T09:18:26.000Z</published>
     <updated>2023-10-26T01:22:53.857Z</updated>
     
@@ -412,19 +412,19 @@
     
     
     
-    <category term="Tools" scheme="https://www.xmeta.love/categories/Tools/"/>
+    <category term="Tools" scheme="https://hoyou.github.io/categories/Tools/"/>
     
     
-    <category term="Tools" scheme="https://www.xmeta.love/tags/Tools/"/>
+    <category term="Tools" scheme="https://hoyou.github.io/tags/Tools/"/>
     
-    <category term="Sourcetree" scheme="https://www.xmeta.love/tags/Sourcetree/"/>
+    <category term="Sourcetree" scheme="https://hoyou.github.io/tags/Sourcetree/"/>
     
   </entry>
   
   <entry>
     <title>git常用命令</title>
-    <link href="https://www.xmeta.love/archives/other/git.html"/>
-    <id>https://www.xmeta.love/archives/other/git.html</id>
+    <link href="https://hoyou.github.io/archives/other/git.html"/>
+    <id>https://hoyou.github.io/archives/other/git.html</id>
     <published>2021-01-13T02:22:45.000Z</published>
     <updated>2023-10-26T01:22:53.856Z</updated>
     
@@ -440,17 +440,17 @@
     
     
     
-    <category term="Other" scheme="https://www.xmeta.love/categories/Other/"/>
+    <category term="Other" scheme="https://hoyou.github.io/categories/Other/"/>
     
     
-    <category term="Git" scheme="https://www.xmeta.love/tags/Git/"/>
+    <category term="Git" scheme="https://hoyou.github.io/tags/Git/"/>
     
   </entry>
   
   <entry>
     <title>开发中遇到的错误</title>
-    <link href="https://www.xmeta.love/archives/other/error.html"/>
-    <id>https://www.xmeta.love/archives/other/error.html</id>
+    <link href="https://hoyou.github.io/archives/other/error.html"/>
+    <id>https://hoyou.github.io/archives/other/error.html</id>
     <published>2020-11-05T07:14:47.000Z</published>
     <updated>2023-10-26T01:22:53.856Z</updated>
     
@@ -465,17 +465,17 @@
     
     
     
-    <category term="Other" scheme="https://www.xmeta.love/categories/Other/"/>
+    <category term="Other" scheme="https://hoyou.github.io/categories/Other/"/>
     
     
-    <category term="Git" scheme="https://www.xmeta.love/tags/Git/"/>
+    <category term="Git" scheme="https://hoyou.github.io/tags/Git/"/>
     
   </entry>
   
   <entry>
     <title>浏览器缓存</title>
-    <link href="https://www.xmeta.love/archives/interview/browser-catch.html"/>
-    <id>https://www.xmeta.love/archives/interview/browser-catch.html</id>
+    <link href="https://hoyou.github.io/archives/interview/browser-catch.html"/>
+    <id>https://hoyou.github.io/archives/interview/browser-catch.html</id>
     <published>2020-09-20T13:16:22.000Z</published>
     <updated>2023-10-26T01:22:53.856Z</updated>
     
@@ -494,19 +494,19 @@
     
     
     
-    <category term="Interview" scheme="https://www.xmeta.love/categories/Interview/"/>
+    <category term="Interview" scheme="https://hoyou.github.io/categories/Interview/"/>
     
     
-    <category term="Browser" scheme="https://www.xmeta.love/tags/Browser/"/>
+    <category term="Browser" scheme="https://hoyou.github.io/tags/Browser/"/>
     
-    <category term="Catch" scheme="https://www.xmeta.love/tags/Catch/"/>
+    <category term="Catch" scheme="https://hoyou.github.io/tags/Catch/"/>
     
   </entry>
   
   <entry>
     <title>浏览器相关面试题</title>
-    <link href="https://www.xmeta.love/archives/interview/browser.html"/>
-    <id>https://www.xmeta.love/archives/interview/browser.html</id>
+    <link href="https://hoyou.github.io/archives/interview/browser.html"/>
+    <id>https://hoyou.github.io/archives/interview/browser.html</id>
     <published>2020-07-20T12:35:53.000Z</published>
     <updated>2023-10-26T01:22:53.856Z</updated>
     
@@ -521,17 +521,17 @@
     
     
     
-    <category term="Interview" scheme="https://www.xmeta.love/categories/Interview/"/>
+    <category term="Interview" scheme="https://hoyou.github.io/categories/Interview/"/>
     
     
-    <category term="Browser" scheme="https://www.xmeta.love/tags/Browser/"/>
+    <category term="Browser" scheme="https://hoyou.github.io/tags/Browser/"/>
     
   </entry>
   
   <entry>
     <title>算法函数</title>
-    <link href="https://www.xmeta.love/archives/interview/algorithm.html"/>
-    <id>https://www.xmeta.love/archives/interview/algorithm.html</id>
+    <link href="https://hoyou.github.io/archives/interview/algorithm.html"/>
+    <id>https://hoyou.github.io/archives/interview/algorithm.html</id>
     <published>2020-06-12T09:48:18.000Z</published>
     <updated>2023-10-26T01:22:53.855Z</updated>
     
@@ -546,10 +546,10 @@
     
     
     
-    <category term="Interview" scheme="https://www.xmeta.love/categories/Interview/"/>
+    <category term="Interview" scheme="https://hoyou.github.io/categories/Interview/"/>
     
     
-    <category term="Javascript" scheme="https://www.xmeta.love/tags/Javascript/"/>
+    <category term="Javascript" scheme="https://hoyou.github.io/tags/Javascript/"/>
     
   </entry>
   
