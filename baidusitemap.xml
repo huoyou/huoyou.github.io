@@ -73,10 +73,6 @@
     <lastmod>2023-10-26</lastmod>
   </url>
   <url>
-    <loc>https://hoyou.github.io/archives/code/proxy.html</loc>
-    <lastmod>2023-10-26</lastmod>
-  </url>
-  <url>
     <loc>https://hoyou.github.io/archives/hexo/series.html</loc>
     <lastmod>2023-10-26</lastmod>
   </url>
@@ -85,11 +81,11 @@
     <lastmod>2023-10-26</lastmod>
   </url>
   <url>
-    <loc>https://hoyou.github.io/archives/code/dev-problems.html</loc>
+    <loc>https://hoyou.github.io/archives/code/proxy.html</loc>
     <lastmod>2023-10-26</lastmod>
   </url>
   <url>
-    <loc>https://hoyou.github.io/archives/code/event-loop.html</loc>
+    <loc>https://hoyou.github.io/archives/code/dev-problems.html</loc>
     <lastmod>2023-10-26</lastmod>
   </url>
   <url>
@@ -98,6 +94,10 @@
   </url>
   <url>
     <loc>https://hoyou.github.io/archives/code/iconify.html</loc>
+    <lastmod>2023-10-26</lastmod>
+  </url>
+  <url>
+    <loc>https://hoyou.github.io/archives/code/event-loop.html</loc>
     <lastmod>2023-10-26</lastmod>
   </url>
 </urlset> 
