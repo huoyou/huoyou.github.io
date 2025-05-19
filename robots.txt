@@ -20,9 +20,9 @@ Disallow: /photos/
 Disallow: /*.css
 Disallow: /*.js
 
-Sitemap: http://www.xmeta.love/sitemap.xml
-Sitemap: http://www.xmeta.love/baidusitemap.xml
+Sitemap: http://huoyou.github.io/sitemap.xml
+Sitemap: http://huoyou.github.io/baidusitemap.xml
 
 
-Sitemap: https://www.xmeta.love/sitemap.xml
-Sitemap: https://www.xmeta.love/baidusitemap.xml
+Sitemap: https://huoyou.github.io/sitemap.xml
+Sitemap: https://huoyou.github.io/baidusitemap.xml
