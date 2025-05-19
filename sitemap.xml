@@ -439,6 +439,13 @@
   </url>
   
   <url>
+    <loc>https://hoyou.github.io/tags/Tools/</loc>
+    <lastmod>2025-05-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://hoyou.github.io/tags/Typora/</loc>
     <lastmod>2025-05-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -447,13 +454,6 @@
   
   <url>
     <loc>https://hoyou.github.io/tags/PicGo/</loc>
-    <lastmod>2025-05-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hoyou.github.io/tags/Tools/</loc>
     <lastmod>2025-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
