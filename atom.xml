@@ -228,6 +228,32 @@
   </entry>
   
   <entry>
+    <title>scss实现修改主题</title>
+    <link href="https://hoyou.github.io/archives/code/change-theme.html"/>
+    <id>https://hoyou.github.io/archives/code/change-theme.html</id>
+    <published>2021-10-31T07:01:18.000Z</published>
+    <updated>2025-05-19T02:56:42.802Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;新建主题色&quot;&gt;&lt;a href=&quot;#新建主题色&quot; class=&quot;headerlink&quot; title=&quot;新建主题色&quot;&gt;&lt;/a&gt;新建主题色&lt;/h2&gt;&lt;p&gt;css/_themes.scss&lt;/p&gt;
+&lt;figure class=&quot;highlight</summary>
+        
+      
+    
+    
+    
+    <category term="Code" scheme="https://hoyou.github.io/categories/Code/"/>
+    
+    
+    <category term="Scss" scheme="https://hoyou.github.io/tags/Scss/"/>
+    
+  </entry>
+  
+  <entry>
     <title>解决eslint，stylelint，prettier冲突</title>
     <link href="https://hoyou.github.io/archives/code/dev-problems.html"/>
     <id>https://hoyou.github.io/archives/code/dev-problems.html</id>
@@ -525,31 +551,6 @@
     
     
     <category term="Browser" scheme="https://hoyou.github.io/tags/Browser/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>算法函数</title>
-    <link href="https://hoyou.github.io/archives/interview/algorithm.html"/>
-    <id>https://hoyou.github.io/archives/interview/algorithm.html</id>
-    <published>2020-06-12T09:48:18.000Z</published>
-    <updated>2023-10-26T01:22:53.855Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;1-childStr-为-abc-parentStr-为-wrlbgcab-返回-true-因为-wrlbgcab-包含了-abc-的一个排列-cab&quot;&gt;&lt;a</summary>
-        
-      
-    
-    
-    
-    <category term="Interview" scheme="https://hoyou.github.io/categories/Interview/"/>
-    
-    
-    <category term="Javascript" scheme="https://hoyou.github.io/tags/Javascript/"/>
     
   </entry>
   
