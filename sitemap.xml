@@ -119,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://hoyou.github.io/gallery/index.html</loc>
+    <loc>https://hoyou.github.io/link/index.html</loc>
     
     <lastmod>2023-10-26</lastmod>
     
@@ -128,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://hoyou.github.io/link/index.html</loc>
+    <loc>https://hoyou.github.io/gallery/index.html</loc>
     
     <lastmod>2023-10-26</lastmod>
     
@@ -209,7 +209,7 @@
   </url>
   
   <url>
-    <loc>https://hoyou.github.io/archives/tools/sourcetree.html</loc>
+    <loc>https://hoyou.github.io/archives/tools/moboxterm.html</loc>
     
     <lastmod>2023-10-26</lastmod>
     
@@ -218,7 +218,7 @@
   </url>
   
   <url>
-    <loc>https://hoyou.github.io/archives/tools/moboxterm.html</loc>
+    <loc>https://hoyou.github.io/archives/tools/sourcetree.html</loc>
     
     <lastmod>2023-10-26</lastmod>
     
@@ -236,15 +236,6 @@
   </url>
   
   <url>
-    <loc>https://hoyou.github.io/archives/other/egg.html</loc>
-    
-    <lastmod>2023-10-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hoyou.github.io/archives/other/error.html</loc>
     
     <lastmod>2023-10-26</lastmod>
@@ -254,7 +245,7 @@
   </url>
   
   <url>
-    <loc>https://hoyou.github.io/archives/code/proxy.html</loc>
+    <loc>https://hoyou.github.io/archives/other/egg.html</loc>
     
     <lastmod>2023-10-26</lastmod>
     
@@ -264,6 +255,15 @@
   
   <url>
     <loc>https://hoyou.github.io/archives/hexo/series.html</loc>
+    
+    <lastmod>2023-10-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hoyou.github.io/archives/code/proxy.html</loc>
     
     <lastmod>2023-10-26</lastmod>
     
@@ -299,6 +299,20 @@
 
   
   <url>
+    <loc>https://hoyou.github.io/tags/hexo/</loc>
+    <lastmod>2025-05-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hoyou.github.io/tags/butterfly/</loc>
+    <lastmod>2025-05-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://hoyou.github.io/tags/Scss/</loc>
     <lastmod>2025-05-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -327,13 +341,6 @@
   </url>
   
   <url>
-    <loc>https://hoyou.github.io/tags/Javascript/</loc>
-    <lastmod>2025-05-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://hoyou.github.io/tags/Eslin/</loc>
     <lastmod>2025-05-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -342,6 +349,13 @@
   
   <url>
     <loc>https://hoyou.github.io/tags/TypeScript/</loc>
+    <lastmod>2025-05-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hoyou.github.io/tags/Javascript/</loc>
     <lastmod>2025-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -362,20 +376,6 @@
   </url>
   
   <url>
-    <loc>https://hoyou.github.io/tags/hexo/</loc>
-    <lastmod>2025-05-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hoyou.github.io/tags/butterfly/</loc>
-    <lastmod>2025-05-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://hoyou.github.io/tags/Browser/</loc>
     <lastmod>2025-05-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -390,14 +390,14 @@
   </url>
   
   <url>
-    <loc>https://hoyou.github.io/tags/Egg/</loc>
+    <loc>https://hoyou.github.io/tags/Git/</loc>
     <lastmod>2025-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hoyou.github.io/tags/Git/</loc>
+    <loc>https://hoyou.github.io/tags/Egg/</loc>
     <lastmod>2025-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -460,21 +460,7 @@
   </url>
   
   <url>
-    <loc>https://hoyou.github.io/tags/Sourcetree/</loc>
-    <lastmod>2025-05-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://hoyou.github.io/tags/Moboxterm/</loc>
-    <lastmod>2025-05-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hoyou.github.io/tags/Surfingkeys/</loc>
     <lastmod>2025-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -487,17 +473,31 @@
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>https://hoyou.github.io/categories/Code/</loc>
+    <loc>https://hoyou.github.io/tags/Sourcetree/</loc>
     <lastmod>2025-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
+    <loc>https://hoyou.github.io/tags/Surfingkeys/</loc>
+    <lastmod>2025-05-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
     <loc>https://hoyou.github.io/categories/hexo/</loc>
+    <lastmod>2025-05-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hoyou.github.io/categories/Code/</loc>
     <lastmod>2025-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
